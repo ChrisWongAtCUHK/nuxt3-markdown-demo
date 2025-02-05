@@ -2,5 +2,8 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: ['@nuxtjs/mdc']
+  modules: ['@nuxtjs/mdc'],
+  app: {
+    baseURL: '/nuxt3-markdown-demo/'
+  }
 })
