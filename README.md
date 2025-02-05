@@ -1,3 +1,4 @@
+[Render Markdown in Nuxt 3 and Highlight Syntax with Nuxt MDC](https://www.docs4.dev/posts/how-to-render-markdown-in-nuxt-3-and-highlight-syntax-nuxt-mdc)
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
